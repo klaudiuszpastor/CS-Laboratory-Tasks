@@ -2,6 +2,6 @@
 
 int main()
 {
-    printf("Klaudiusz Pastor");
+    printf("Klaudiusz Pastuch");
     return 0;
 }
