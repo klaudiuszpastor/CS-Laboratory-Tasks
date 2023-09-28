@@ -1,0 +1,2 @@
+***Create a header file defs.h containing declarations of two single-precision floating-point variables and a function that performs the addition of two floating-point numbers (add()). Create a corresponding defs.c source file containing the appropriate definitions for these variables and functions. Call the add() function inside the main() function,
+using two previously defined variables and write the addition result to the console.***

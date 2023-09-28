@@ -1,0 +1,1 @@
+***Check and output to the console the size of various basic variable types using the sizeof operator.***
