@@ -1,9 +1,8 @@
 #pragma once
 
 
-// deklaracja funkcji
-// w zeros.c definicja funkcji
-// zaimplementowaną funckję wywołaj w funkcji main() i zwryfikuj poprawność
+// function dekleration
+// in zeros.c function declearation
 
 float x,y,z;
 

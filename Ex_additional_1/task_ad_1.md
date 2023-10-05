@@ -1,0 +1,1 @@
+*** Check how variables of different types behave when they exceed a numeric range. Protect mathematical operations such as addition and subtraction from exceeding the minimum and maximum values that a variable can take. ***

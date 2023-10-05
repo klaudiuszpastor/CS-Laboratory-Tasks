@@ -1,0 +1,2 @@
+*** Write a function void zeros(float a, float b, float c) that calculates and then displays the zeros of a quadratic function on the screen
+f (x) = ax2 + bx + c in the domain of real numbers, based on the given coefficients a, b, c. The function declaration is placed in the file zeros.h. Place the function definition in the file zeros.c. Call the implemented function in the main() function and verify its correct operation. Hint: the square root can be calculated using the sqrt() function, declared in math.h ***
