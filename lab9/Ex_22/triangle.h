@@ -7,4 +7,5 @@ typedef struct Point {
 	double x, y;
 } Point_t;
 
+double calculateDistance(Point_t first, Point_t second);
 bool isRightTriangle(Point_t points[]);

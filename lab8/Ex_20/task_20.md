@@ -1,0 +1,1 @@
+***Using the C or C++ language, write a program that creates a square matrix of size n x n elements and fills it with specified numbers. To do this, prompt the user for the dimension of the matrix n, and then n^2 integers to initialize the consecutive elements of the matrix. The matrix is represented by a dynamically allocated two-dimensional array.***
