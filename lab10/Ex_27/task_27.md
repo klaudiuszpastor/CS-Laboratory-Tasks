@@ -1,0 +1,1 @@
+Using the Node structure, implement a queue by defining the functions void push(Node **root, int value), bool pop(Node **root, int *buffer), and bool isEmpty(Node *root). Test the implemented data structure.
